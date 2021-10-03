@@ -1,4 +1,4 @@
-# Az Monitor Alert View
+# Azure Monitor Alert View
 Get All Azure monitor Alerts  with their description details to Azure Dashboard
 
 
