@@ -15,7 +15,7 @@ What i found useful is to use "Azure Resource Graph Explorer" tha table "**Alert
 ![image](https://user-images.githubusercontent.com/24368496/135749912-504dd3eb-ffa9-4b5f-9e74-2823c368b28f.png)
 
 Exmpale of query [KQL], it will list the open and closed alerts (change the query and icons according to your needs) in the last seven days:
------
+##
 AlertsManagementResources
 | where type =~ 'Microsoft.AlertsManagement/alerts'
 | where isnotnull(properties.essentials.description)
@@ -24,6 +24,8 @@ AlertsManagementResources
 | where LastModifiedDate > ago(7d)
 //| project name, Severity, Resource, LastModifiedDate
 | order by LastModifiedDate
------
+##
+Pin to dashboard (Pinned automatically to open dashboard)
 
+![image](https://user-images.githubusercontent.com/24368496/135763662-cb5aa989-fc1b-4bf8-a447-8d7ee819a731.png)
 
