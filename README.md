@@ -29,3 +29,6 @@ Pin to dashboard (Pinned automatically to open dashboard)
 
 ![image](https://user-images.githubusercontent.com/24368496/135763662-cb5aa989-fc1b-4bf8-a447-8d7ee819a731.png)
 
+Activate the auto-refresh feature dashboard and now you have the interactive alerts dashboard
+
+![image](https://user-images.githubusercontent.com/24368496/135763967-5b423a60-72a1-4b2e-ae2a-a096df5fa775.png)
