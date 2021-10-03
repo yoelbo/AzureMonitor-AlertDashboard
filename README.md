@@ -10,7 +10,7 @@ You can pin the blade and get the link to the alerts screen, the MOM screen is n
 
 ![image](https://user-images.githubusercontent.com/24368496/135748520-f1b657fd-a587-4eea-8cb8-28f5653187af.png)
 
-What i found best and usefull is to use "Azure Resource Graph Explorer" tha table "AlertsManagementResources" conatin all alerts
+What i found best and usefull is to use "Azure Resource Graph Explorer" tha table "**AlertsManagementResources**" conatin all alerts
 
 ![image](https://user-images.githubusercontent.com/24368496/135749912-504dd3eb-ffa9-4b5f-9e74-2823c368b28f.png)
 
